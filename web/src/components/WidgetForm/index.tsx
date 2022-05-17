@@ -1,5 +1,3 @@
-import { CloseButton } from "../CloseButton";
-
 import bugImageUrl from '../../assets/bug.svg'
 import ideaImageUrl from '../../assets/idea.svg'
 import thoughtImageUrl from '../../assets/thought.svg'
@@ -61,7 +59,7 @@ export function WidgetForm() {
         </>
       )}
       <footer className="text-xs text-neutral-400">
-        Feito com ♥ pela <a href="https://rocketseat.com.br" className="underline underline-offset-2">Rocketseat</a>
+        Feito com ♥ por <a href="https://linktr.ee/eltin182" className="underline underline-offset-2">Elton Santos</a>
       </footer>
     </div>
   )
